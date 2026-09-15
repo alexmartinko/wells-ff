@@ -11,6 +11,19 @@ drops since last time) for all 8 teams, whatever's easier. That updates
 there's no live connection to the Yahoo league itself, so a stale
 `rosters.md` means a stale report.
 
+He can also paste the league's actual free-agent list (Yahoo's Players page,
+whatever columns it shows). Useful as an **availability check** — confirms
+who's actually still on the wire — but **`% Ros` (rostered elsewhere in
+Yahoo) is explicitly not a quality or priority signal and should not drive
+recommendations.** It's a popularity/lag metric: a mediocre player accumulates
+ownership because early adders haven't gotten around to cutting him, while a
+real value can sit at low ownership just because he's not a headline name yet
+(this bit us once — Jordan Addison/Jayden Reed/Jordan Mason were all 80%+
+owned elsewhere in Week 2 and looked like must-adds by that metric alone, but
+real rankings had them at WR36-38/RB35, and Addison was already showing up on
+"who to drop" columns). **Rank by actual expert rankings/tiers for the
+position, use the FA list only to confirm the name is actually available.**
+
 ## Locked format (as of Week 2)
 
 Two sections, in order:
