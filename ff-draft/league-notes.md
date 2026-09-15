@@ -1,5 +1,27 @@
 # All's Well That Ends Wells — League Notes
 
+## In-season (Sept 15 2026, post-Week 1) — read this first
+
+- **Three separate dollar figures now in play, don't conflate them:**
+  1. **$100** real-money buy-in (season-long, into the payout pot).
+  2. **$200** auction draft budget (spent, draft night only).
+  3. **$100 season-long FAAB waiver budget** — confirmed by Alex directly,
+     for the whole season's waiver claims. See `rosters.md` for current
+     roster state and the waiver-report workflow below.
+- **Team names can drift from draft night** — Alex's team was "Purdy Flowers
+  for the King" at the draft, is **"Allen-ine Fannin Mutants"** now. Check
+  `rosters.md` for current names, not this file's older references.
+- **Owner waiver-activity tiers** (Alex's read, for gauging bid competition):
+  **High** — Joe, Hai, Kyle (active on waivers, bid aggressively). **Mid** —
+  OJ, Sara. **Low** — Zach, Steph (rarely active). Use this to judge how much
+  competition/FAAB pressure to expect on a given claim.
+- **Weekly waiver-report workflow**: Alex feeds roster changes (or a fresh
+  roster paste) each week; a report gets built targeting his team's actual
+  needs against public waiver-wire research, sized to his $100 season FAAB
+  pool. See `waiver-reports/` for the format and examples. Email delivery
+  deliberately not wired up yet — nailing the report content first.
+
+
 Source: Alex's Gmail (commissioner threads), pulled Aug 31, 2026. Google Drive
 could not be searched this session (the connected Drive tool only exposes
 share/trash/update — no search or file-read), so none of the historical

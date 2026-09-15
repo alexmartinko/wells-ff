@@ -40,6 +40,12 @@ notes).
 - **`draft-plan.md`** — the durable record of the 5 budget strategies
   (recomputed on FantasyPros 2026 values) and the position tiers, with
   web-checked notes on the injury/bubble cases.
+- **`rosters.md`** — in-season living roster snapshot for all 8 teams
+  (post-draft, keeps drifting — update from whatever Alex feeds weekly).
+- **`waiver-reports/`** — weekly waiver-wire report, tailored to Alex's
+  actual roster gaps and $100 season FAAB budget. `README.md` there has the
+  process; `2026-wk2.md` is the first example. Email delivery not wired up
+  yet — nailing the content first.
 - **`auction-values.csv`** / **`raw-fantasypros-2026.txt`** — the FantasyPros
   2026 auction values (361 players: rank, name, team, pos, injury status, $),
   as pasted by Alex and as parsed. Primary data source for the Bid Sheet.
