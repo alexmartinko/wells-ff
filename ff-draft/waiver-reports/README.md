@@ -15,14 +15,22 @@ He can also paste the league's actual free-agent list (Yahoo's Players page,
 whatever columns it shows). Useful as an **availability check** — confirms
 who's actually still on the wire — but **`% Ros` (rostered elsewhere in
 Yahoo) is explicitly not a quality or priority signal and should not drive
-recommendations.** It's a popularity/lag metric: a mediocre player accumulates
-ownership because early adders haven't gotten around to cutting him, while a
-real value can sit at low ownership just because he's not a headline name yet
-(this bit us once — Jordan Addison/Jayden Reed/Jordan Mason were all 80%+
-owned elsewhere in Week 2 and looked like must-adds by that metric alone, but
-real rankings had them at WR36-38/RB35, and Addison was already showing up on
-"who to drop" columns). **Rank by actual expert rankings/tiers for the
-position, use the FA list only to confirm the name is actually available.**
+recommendations.** It's a popularity/lag metric, not a value one (this came up
+in Week 2 — Jordan Addison/Jayden Reed/Jordan Mason were all 80%+ owned
+elsewhere and looked like must-adds by that metric alone). **Rank by real
+player quality/expert rankings, use the FA list only to confirm availability.**
+
+**Known gap, not yet solved:** the actual ranking-list pages (FantasyPros ROS
+rankings, waiver-priority boards) are JS-rendered — WebFetch only gets the
+page shell, not the ranked table. Two attempts at ranking Week 2's contested
+names (Deebo Samuel, Doubs, Reed, Addison, Mason, Pittman) both produced
+plausible-sounding numbers that weren't actually sourced from anything real —
+caught and retracted both times, but don't trust a specific rank number in a
+past report unless it's tied to a citation. Best fix so far: have Alex paste
+the actual rankings screen the same way he pastes the FA list, the same
+"screenshot/paste real data in" pattern that unblocked the roster catalogue
+and the FA-availability check. A cleaner fetch method (an API, or a source
+whose rankings render as static text) would remove the need for that.
 
 ## Locked format (as of Week 2)
 
