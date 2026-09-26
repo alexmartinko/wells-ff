@@ -28,21 +28,74 @@ Yahoo lets owners rename anytime — treat the name below as current, not the
 
 **OJ's roster was not pasted** — missing from this file. Get it next update.
 
+## Standings as of Sept 26 (Week 3 under way) — real FAAB data
+
+Pasted from the Yahoo standings page, not inferred. This replaces the
+activity-tier guesswork in `league-notes.md` with actual observed spend.
+
+| Rank | Team | Owner | W-L-T | PF | PA | Streak | FAAB left | Waiver pri. | Moves |
+|--:|---|---|---|--:|--:|---|--:|--:|--:|
+| 1 | Allen-ine Fannin Mutants | **Alex** | 2-0-0 | 368.48 | 250.66 | W-2 | $91 | 8 | 1 |
+| 2 | No Contest🤙 | **Hai** (inferred — see below) | 2-0-0 | 352.54 | 322.00 | W-2 | $94 | 7 | 4 |
+| 3 | GibbsEnergy&BrownianMotion | Sara | 1-1-0 | 331.90 | 268.98 | L-1 | $99 | 6 | 4 |
+| 4 | Leeeeroy Judkins | Kyle | 1-1-0 | 259.18 | 320.12 | L-1 | **$27** | 5 | **10** |
+| 5 | Tet-On/Tet-Off | Joe | 1-1-0 | 249.02 | 305.96 | W-1 | $87 | 4 | 4 |
+| 6 | Swiftielce Babies | Steph | 1-1-0 | 244.38 | 224.92 | W-1 | $100 | 3 | **0** |
+| 7 | Old Guys United | OJ | 0-2-0 | 303.16 | 339.34 | L-2 | $99 | 2 | 3 |
+| 8 | Dicker's my Kicker | Zach | 0-2-0 | 209.30 | 285.98 | L-2 | $100 | 1 | 3 |
+
+**Team-name note:** "No Contest🤙" isn't one of the 8 known team names, and
+Hai's old name (GoldenShowersBringMayeFlowers) is the one missing from this
+list — by elimination, **No Contest🤙 = Hai's team, renamed.** Not confirmed
+directly; flag if wrong.
+
+**This retires the earlier "Joe/Hai/Kyle = high activity" guess — real data
+says:**
+- **Kyle is the only genuinely dollar-aggressive bidder** — $73 spent across
+  10 moves (~$7/move). Expect him to keep outbidding on names he wants.
+- **Hai and Joe are frequent but cheap** — 4 moves each, but only $6 and $13
+  spent respectively (~$1.50–3/move). They add a lot, but rarely bid it up —
+  claims often go uncontested or for near-minimum.
+- **Sara and OJ**: frequent-ish (3-4 moves), essentially free ($1 spent).
+- **Steph is genuinely inactive** (0 moves, full $100) — confirmed, not just
+  a guess.
+- **Zach**: 3 moves but $0 spent — active on cheap/uncontested claims,
+  doesn't bid real money. Recategorize from "low" to "cheap-active."
+- **Alex (me)**: 1 move, $9 spent, $91 left.
+
+**Open question for Alex:** the 1 move + $9 spent — was that the Week 2
+Jalen Coker recommendation, or something else? Jonah Coleman (RB, DEN) is
+new on the Week 3 roster below and Coker isn't on it anywhere, so it looks
+like **Coleman was the actual add, not Coker** — worth confirming so the
+waiver-report track record stays honest.
+
 ## Allen-ine Fannin Mutants — Alex (me)
 
+**Updated Sept 26, Week 3 lineup.** 2-0-0, 1st place, $91 FAAB left.
+
 - **QB** Josh Allen (BUF)
-- **RB** Kyren Williams (LAR), Rhamondre Stevenson (NE)
+- **RB** Kyren Williams (LAR), Breece Hall (NYJ) — Hall moved from flex into
+  the RB2 spot
 - **WR** Jaxon Smith-Njigba (SEA), Tee Higgins (CIN)
 - **TE** Dalton Kincaid (BUF)
-- **FLEX x2** Breece Hall (NYJ), Chuba Hubbard (CAR)
+- **FLEX x2** Rhamondre Stevenson (NE), Chuba Hubbard (CAR)
 - **Bench** Harold Fannin Jr. (TE, CLE), Marvin Harrison Jr. (WR, ARI),
-  Carnell Tate (WR, TEN), Rico Dowdle (RB, PIT), Bo Nix (QB, DEN)
-- **IR** A.J. Brown (WR, NE)
+  Carnell Tate (WR, TEN), Rico Dowdle (RB, PIT — **tagged Out**), **Jonah
+  Coleman (RB, DEN, IR-tagged, new add — likely the 1 move / $9 spent)**
+- **IR** A.J. Brown (WR, NE) — still stashed, unchanged
 - **K** Brandon Aubrey (DAL) &middot; **DEF** Seahawks
 
-Read: RB is deep (4 rostered). TE is actually fine — Kincaid + Fannin Jr. is
-a usable TE1/TE2 pair. Weak spot is bench WR depth — Harrison Jr. (24% start)
-and Tate (18% start) are both low-confidence. A.J. Brown stashed on IR.
+**Bo Nix (QB2) is off the roster** — dropped at some point, presumably for
+Coleman (bench math: 5 spots either way). Fine, Allen doesn't need a backup
+this badly.
+
+Current read: RB still fine on paper (4 names) but two of the four are
+question marks now — **Dowdle is Out**, and Coleman is a DEN stash, not a
+real Week 3 contributor. Real usable RB depth is down to Kyren + Hall +
+Rhamondre. WR bench continues to erode: **Harrison Jr. down to 12% start**
+(was 24% two weeks ago) and **Tate flat at 11%** — both look like cut
+candidates now rather than just "low-confidence." TE still fine (Kincaid +
+Fannin).
 
 ## GoldenShowersBringMayeFlowers — Hai (1st place, 210.86 pts)
 

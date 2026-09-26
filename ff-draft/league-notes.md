@@ -11,10 +11,16 @@
 - **Team names can drift from draft night** — Alex's team was "Purdy Flowers
   for the King" at the draft, is **"Allen-ine Fannin Mutants"** now. Check
   `rosters.md` for current names, not this file's older references.
-- **Owner waiver-activity tiers** (Alex's read, for gauging bid competition):
-  **High** — Joe, Hai, Kyle (active on waivers, bid aggressively). **Mid** —
-  OJ, Sara. **Low** — Zach, Steph (rarely active). Use this to judge how much
-  competition/FAAB pressure to expect on a given claim.
+- **Owner waiver-activity — superseded by real data.** Alex's original guess
+  (Joe/Hai/Kyle = high, OJ/Sara = mid, Zach/Steph = low) turned out to be
+  half right: real Week 3 standings-page FAAB data (see `rosters.md`) shows
+  **Kyle is the only genuinely dollar-aggressive bidder** ($73 of $100
+  spent, 10 moves). Hai, Joe, Sara, and OJ are all *frequent* (3-4 moves
+  each) but nearly free ($1-13 spent) — claims mostly go uncontested or for
+  near-minimum. Steph is confirmed inactive (0 moves). Zach is active on
+  cheap claims (3 moves) but has never bid real money. **Use `rosters.md`'s
+  standings table, not this bullet, for current competition reads** — it's
+  refreshed from the actual Yahoo page, this was a pre-season guess.
 - **Weekly waiver-report workflow**: Alex feeds roster changes (or a fresh
   roster paste) each week; a report gets built targeting his team's actual
   needs against public waiver-wire research, sized to his $100 season FAAB
