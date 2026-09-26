@@ -126,8 +126,11 @@ count down.
 
 ## Standing traditions / league lore
 
-- **2025 champion**: Alex ("Purdy Flowers for the King" 🏆). Went back-to-back
-  as of the 2026 roll-call email.
+- **2025 champion**: Alex ("Purdy Flowers for the King" 🏆). The roll-call
+  email called it "back-to-back," but Yahoo's real All-Time standings (see
+  `league-history.md`) show Alex finished **3rd in 2024**, not 1st — the
+  email and the hard record disagree. Full history, year-by-year finishes,
+  and team-name genealogy for all 8 owners now live in `league-history.md`.
 - **Toilet Bowl**: last-place bracket/punishment. Zach finished last
   back-to-back and owes the league a repeat "beer mile" — Alex sent him a
   shirt for it ("hoping you got the shirt I sent you. We're looking forward

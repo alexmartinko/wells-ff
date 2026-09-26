@@ -42,6 +42,9 @@ notes).
   web-checked notes on the injury/bubble cases.
 - **`rosters.md`** — in-season living roster snapshot for all 8 teams
   (post-draft, keeps drifting — update from whatever Alex feeds weekly).
+- **`league-history.md`** — champions/finishes by year and team-name
+  genealogy per owner, from Yahoo's All-Time standings. Append a year here
+  each season rather than growing `league-notes.md`.
 - **`waiver-reports/`** — weekly waiver-wire report, tailored to Alex's
   actual roster gaps and $100 season FAAB budget. `README.md` there has the
   process; `2026-wk2.md` is the first example. Email delivery not wired up
