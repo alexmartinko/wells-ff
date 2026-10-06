@@ -69,33 +69,59 @@ new on the Week 3 roster below and Coker isn't on it anywhere, so it looks
 like **Coleman was the actual add, not Coker** — worth confirming so the
 waiver-report track record stays honest.
 
+## Standings as of Oct 6 (4 games played) — real data, screenshots
+
+Two more team renames since Sept 26 — Yahoo owners keep doing this, always
+trust this table over `league-notes.md`'s draft-night names:
+**Zach's team is now "I'm Worthy of Victory"** (was Dicker's my Kicker), and
+**OJ's team is now "Lamar's Flowers King-Sz Power"** (was Old Guys United,
+first confirmed roster/name for OJ's team at all).
+
+| Rank | Team | Owner | W-L-T | Streak | PF | PA | FAAB left | Waiver pri. |
+|--:|---|---|---|---|--:|--:|--:|--:|
+| 1 | Allen-ine Fannin Mutants | **Alex** | 4-0-0 | W-4 | 707.42 | 514.34 | $84 | 8 |
+| 2 | No Contest🤙 | Hai | 3-1-0 | L-1 | 635.38 | 585.86 | $93 | 7 |
+| 3 | Swiftielce Babies | Steph | 3-1-0 | W-3 | 614.88 | 549.20 | $100 | 6 |
+| 4 | Tet-On/Tet-Off | Joe | 2-2-0 | W-1 | 557.26 | 566.46 | $70 | 5 |
+| 5 | I'm Worthy of Victory | Zach | 2-2-0 | W-2 | 497.34 | 536.18 | $100 | 4 |
+| 6 | GibbsEnergy&BrownianMotion | Sara | 1-3-0 | L-3 | 657.82 | 682.48 | $99 | 3 |
+| 7 | Leeeeroy Judkins | Kyle | 1-3-0 | L-3 | 490.66 | 647.98 | $24 | 2 |
+| 8 | Lamar's Flowers King-Sz Power | OJ | 0-4-0 | L-4 | 561.58 | 639.84 | $99 | 1 |
+
+**Alex (me) is in first at 4-0-0** — best record and most points for in the
+league. Spend since Sept 26: $91 → $84 (one more small move, ~$7).
+**Kyle remains tapped out** ($24, barely moved from $27 two weeks ago) —
+still the one team incapable of a big bid. Steph and Zach are both sitting
+on effectively full budgets ($100) despite being mid-table in moves —
+genuinely passive bidders, not just a guess anymore.
+
 ## Allen-ine Fannin Mutants — Alex (me)
 
-**Updated Sept 26, Week 3 lineup.** 2-0-0, 1st place, $91 FAAB left.
+**Updated Oct 6, Week 5 lineup (from live screenshots).** 4-0-0, 1st place,
+$84 FAAB left. Jonah Coleman is gone (confirmed dropped, bust — landed on
+IR without playing; see `waiver-reports/2026-wk4.md`).
 
 - **QB** Josh Allen (BUF)
-- **RB** Kyren Williams (LAR), Breece Hall (NYJ) — Hall moved from flex into
-  the RB2 spot
-- **WR** Jaxon Smith-Njigba (SEA), Tee Higgins (CIN)
+- **RB** Kyren Williams (LAR), Rhamondre Stevenson (NE) — both now full
+  starters, not flex
+- **WR** Jaxon Smith-Njigba (SEA), Tee Higgins (CIN — **tagged Q,
+  adductor strain, day-to-day**)
 - **TE** Dalton Kincaid (BUF)
-- **FLEX x2** Rhamondre Stevenson (NE), Chuba Hubbard (CAR)
-- **Bench** Harold Fannin Jr. (TE, CLE), Marvin Harrison Jr. (WR, ARI),
-  Carnell Tate (WR, TEN), Rico Dowdle (RB, PIT — **tagged Out**), **Jonah
-  Coleman (RB, DEN, IR-tagged, new add — likely the 1 move / $9 spent)**
+- **FLEX x2** Harold Fannin Jr. (TE, CLE), Carnell Tate (WR, TEN) — Tate
+  earned a starting flex spot, no longer a cut candidate
+- **Bench** Chuba Hubbard (RB, CAR — **bye this week**), Breece Hall (RB,
+  NYJ — **tagged Out**, still the quad/thigh injury from Wk3, no return
+  timeline), Marvin Harrison Jr. (WR, ARI), Rico Dowdle (RB, PIT — **tagged
+  Out**), Keenan Allen (WR, IND — **tagged Out**, new injury)
 - **IR** A.J. Brown (WR, NE) — still stashed, unchanged
 - **K** Brandon Aubrey (DAL) &middot; **DEF** Seahawks
 
-**Bo Nix (QB2) is off the roster** — dropped at some point, presumably for
-Coleman (bench math: 5 spots either way). Fine, Allen doesn't need a backup
-this badly.
-
-Current read: RB still fine on paper (4 names) but two of the four are
-question marks now — **Dowdle is Out**, and Coleman is a DEN stash, not a
-real Week 3 contributor. Real usable RB depth is down to Kyren + Hall +
-Rhamondre. WR bench continues to erode: **Harrison Jr. down to 12% start**
-(was 24% two weeks ago) and **Tate flat at 11%** — both look like cut
-candidates now rather than just "low-confidence." TE still fine (Kincaid +
-Fannin).
+**RB is a real crisis right now**, not just a soft spot: of 4 rostered RBs,
+only Kyren and Rhamondre are healthy and playing. Hall (Out, no timeline),
+Dowdle (Out), and Hubbard (bye) are all dead this week. See
+`waiver-reports/` for the Oct 6 fix (Will Shipley, Dohnte Meyers, Braelon
+Allen). **3 bench spots are currently non-contributing** (Hall/Dowdle/
+Allen all tagged Out) — real churn needed, not just a watch item.
 
 ## GoldenShowersBringMayeFlowers — Hai (1st place, 210.86 pts)
 
