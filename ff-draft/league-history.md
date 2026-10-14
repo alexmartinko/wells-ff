@@ -176,8 +176,19 @@ Gambling on Ridley (Hai, '23), Can You Diggs It? (Zach, '23), Doug Martin
 still hidden rather than owner-unattributed: **Cleveland Steamers**, 7th
 place 2022 (571 pts, Bronze) — same name as the hidden 2020 runner-up entry
 already in the master table. Possibly the same person reusing the name
-across years, but that's not asserted as fact; the owner behind
-`--hidden--` is still unknown.
+across years, but that's not asserted as fact.
+
+**Unconfirmed — Alex's tentative recollection (Oct 13 2026):** Alex said
+"Cleveland steamers was Jamie i think," explicitly hedged. Recorded here as
+the leading guess for the `--hidden--` occupant behind Cleveland Steamers
+(2020 2nd, 2022 7th), but not treated as confirmed — same convention as
+other pattern-match guesses in this file before they were verified or
+corrected. Jamie is not among the current 8 owners (Joe, Hai, Kyle, OJ,
+Sara, Zach, Steph, Alex), which is consistent with — but doesn't prove —
+Yahoo hiding a manager no longer active in the league; plausibly a
+former/past owner, same bucket as Sam, SuperFly Marinec, Arun, Vince, Emily
+Kang, Justin, or Amy above. Needs firmer confirmation before being folded
+into the master table or the departed-members list as fact.
 
 ## Still open
 
@@ -185,9 +196,10 @@ across years, but that's not asserted as fact; the owner behind
 - **2021 has no bracket**, only a ratings snapshot — Joe's #1 rating that
   year is not a confirmed championship.
 - **Exact year of the Justin/Amy/hidden-manager → Sara swap** isn't pinned
-  down beyond "between 2021 and 2023," nor is who any of the `--hidden--`
-  occupants actually were (including the recurring hidden "Cleveland
-  Steamers," 2020 and 2022).
+  down beyond "between 2021 and 2023," nor is who most of the `--hidden--`
+  occupants actually were. The recurring hidden "Cleveland Steamers" (2020,
+  2022) is now tentatively **Jamie**, per Alex's hedged recollection — see
+  the unconfirmed note above — but still needs firmer confirmation.
 - **2013 and earlier**: `league-notes.md` says the league's Yahoo
   predecessor was "Jim Wells in the Fist Round" (renamed to "All's Wells
   that ends Wells" in 2020 per a commissioner-transfer email) — but 2014
