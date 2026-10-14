@@ -12,7 +12,7 @@ the original per-year prose is ever wanted back.
 |--:|---|---|---|--:|
 | 2025 | Purdy Flowers for the King 🏆 (Alex) | The Cool Joe's Team (Sara) | Tylenol Skattebrain (Hai) | **1st** |
 | 2024 | Old Guys United (OJ) | The 529CeeDee (Joe) | All In On Allen (Alex) | **3rd** |
-| 2023 | J. Taylor D. Swift (Steph, *pattern match*) | Gibbsmas Miracle 👨‍👨 (Sara, *pattern match*) | All In On Allen (Alex) | **3rd** |
+| 2023 | J. Taylor D. Swift (Joe) | Gibbsmas Miracle 👨‍👨 (Kyle) | All In On Allen (Alex) | **3rd** |
 | 2022 | Dak-O'-Lambterns (Joe) | Jefferson Airplane (Alex) | Old Guys United (OJ) | **2nd** |
 | 2021 | *no bracket pasted — ratings only, see below* | | | — |
 | 2020 | MrRogersNeighborhood (Zach) | Cleveland Steamers (hidden) | *not captured* | **4th** |
@@ -26,11 +26,12 @@ the original per-year prose is ever wanted back.
 
 **2013 is the founding year Alex confirms joining** — nothing earlier exists.
 
-**Championship tally (2014-2025):** OJ 3 (2015, 2016, 2024) · Joe 2 (2018,
-2022) · Hai 2 (2014, 2019) · Alex, Zach, Kyle 1 each (2025, 2020, 2017) ·
-Steph 1 (2023, unconfirmed attribution). **Alex has been in the league
-every single year on record (2014-2026) and has exactly one championship
-(2025)** — the longest-tenured grinder, not the winningest.
+**Championship tally (2014-2025):** OJ 3 (2015, 2016, 2024) and Joe 3 (2018,
+2022, 2023 — J. Taylor D. Swift confirmed Joe's via the 2023 Ratings & Levels
+screenshot) are now tied for most titles · Hai 2 (2014, 2019) · Alex, Zach,
+Kyle 1 each (2025, 2020, 2017). **Alex has been in the league every single
+year on record (2014-2026) and has exactly one championship (2025)** — the
+longest-tenured grinder, not the winningest.
 
 "Alex's finish" is Yahoo's own per-year finish column for his team — the
 main tool for solving whose team is whose in years the podium names aren't
@@ -51,40 +52,52 @@ obviously current-8 owners.
   → The Champ is Here! ('16, champion) → Brady Gaga is back! ('17, #1
   rated, no title) → KamaraIsTheNewGurley ('18, #1 rated, no title) →
   Kamaras Rolling ('19, #1 rated, no title) → Old guys reunited ('20, '21)
-  → **Old Guys United** ('22 3rd, '24 champion, '26 current). The league's
-  most decorated manager (3 titles) despite a 2017-2019 stretch of being
-  the best-rated team every year and winning none of them.
+  → **Old Guys United** ('22 3rd, '23 4th, '24 champion, '26 current). The
+  league's most decorated manager, tied with Joe at 3 titles, despite a
+  2017-2019 stretch of being the best-rated team every year and winning
+  none of them.
 - **Hai**: Hard As Matty Ice ('14, champion) → DudeWhere'sMyCarr ('15) →
   Marrying My Cousins ('16, runner-up) → Kneeling for Trump ('17) →
   BellEndHoldout ('18) → Gage Display ('19, champion) → Need more DKalf
-  ('20) → Pitts of Despair ('21) → ... → Tylenol Skattebrain ('25) →
-  **No Contest🤙** ('26, inferred by elimination — see `rosters.md`).
+  ('20) → Pitts of Despair ('21) → Ja'Marr-a-Lago Raiders ('22, 6th) →
+  Gambling on Ridley ('23, 5th) → What's in the Naberhood? ('24, 7th) →
+  ... → Tylenol Skattebrain ('25) → **No Contest🤙** ('26, inferred by
+  elimination — see `rosters.md`).
 - **Zach**: F-This-Week ('14, '15) → Dalton'sAtomicTheory ('16) →
   Hogan'sHeroes ('17, '18, 3rd in '18) → GoodLuckEveryone ('19) →
   MrRogersNeighborhood ('20, champion) → NickiMinajSwollenFootballs ('21)
-  → ... → **Dicker's my Kicker** ('26).
+  → KissYourCousinGoodbye ('22, 2nd) → Can You Diggs It? ('23, 2nd) →
+  King of the Hill ('24, 4th) → ... → **Dicker's my Kicker** ('26).
 - **Stephanie**: Beastmode4thewin ('14) → DeflategateExpert ('15, 3rd) →
   STEPH TANK ('16) → STEPH 'AMRAP' Tank ('17, '18, runner-up '18) →
-  IMissGronk ('19 3rd, '20, '21) → ... → likely J. Taylor D. Swift ('23
-  champion — pattern match on her Swiftie theme, not a confirmed
-  finish-number attribution) → **Swiftielce Babies** ('26).
+  IMissGronk ('19 3rd, '20, '21) → NoNightshadesforBrady ('22, 8th) →
+  Swiftielce Babies ('23, '24, 8th both) → ... → **Swiftielce Babies**
+  ('26). (2023's J. Taylor D. Swift, previously guessed as Steph's via a
+  Swiftie-theme pattern match, is now confirmed Joe's instead — see
+  champions table.)
 
 ## Joined mid-history
 
 - **Kyle**: first appears **2015** (not '14). Last Grad Student ('15,
   runner-up) → We talkin' playoffs? ('16) → We Talkin' Fantasy? ('17,
   champion) → Soccer Practice ('18) → Boone or Bust ('19, runner-up) → Par
-  for the year ('20) → Need Moore Everclear ('21) → ... →
+  for the year ('20) → Need Moore Everclear ('21) → 💩💩💩 ('22, 5th) →
+  Gibbsmas Miracle 👨‍👨 ('23, runner-up) → Doug Martin ('24, 5th) → ... →
   **Leeeeroy Judkins** ('26).
 - **Joe**: first appears **2017**. Seagull meat ('17 runner-up, '18
   champion, '19, '20, '21 — 5 straight years, one name) → Dak-O'-Lambterns
-  ('22, champion — Alex-confirmed Oct 2026) → ... (2023 gap still open) →
-  The 529CeeDee ('24, runner-up — Alex-confirmed Oct 2026) → ... (2025 gap
-  still open) → **Tet-On/Tet-Off** ('26).
-- **Sara**: no data before 2025 (The Cool Joe's Team). Joined sometime
-  between 2021 (10-team era, no Sara) and 2025. Likely Gibbsmas Miracle
-  👨‍👨 in '23 (pattern match on her recurring Jahmyr Gibbs joke, same bit
-  as 2026's GibbsEnergy&BrownianMotion) — not confirmed by a finish number.
+  ('22, champion — Alex-confirmed Oct 2026) → J. Taylor D. Swift ('23,
+  champion — Alex-confirmed Oct 2026, corrects an earlier wrong pattern-match
+  guess that had this as Steph's) → The 529CeeDee ('24, runner-up —
+  Alex-confirmed Oct 2026) → ... (2025 gap still open) →
+  **Tet-On/Tet-Off** ('26). 2022-2024 is now an unbroken chain; only the
+  2025 gap remains.
+- **Sara**: Genome Smith ('23, 7th) → Genome Smith ('24, 6th, same name
+  continuing) → The Cool Joe's Team ('25, runner-up) →
+  **GibbsEnergy&BrownianMotion** ('26). No data before 2023 — joined
+  sometime between 2021 (10-team era, no Sara) and 2023. (2023's Gibbsmas
+  Miracle 👨‍👨, previously guessed as Sara's via her recurring Jahmyr
+  Gibbs joke, is now confirmed Kyle's instead — see champions table.)
 
 ## Departed / one-off members (not among the current 8)
 
@@ -108,7 +121,9 @@ Membership churned a lot in the founding years before settling down:
   hidden-manager slot; Amy stays. Same 10 all three years.
 - **2022-2026** (8): Justin, Amy, and the hidden manager are all gone;
   **Sara** is the only new arrival. 10 − 3 + 1 = 8 — a 3-for-1 swap, not a
-  clean handoff, sometime between 2021 and Sara's confirmed 2025 presence.
+  clean handoff, sometime between 2021 and Sara's confirmed 2023 presence
+  (Genome Smith) — narrower than previously thought now that her 2023-2024
+  data is in.
 
 None of Sam, SuperFly Marinec, Arun, Vince, Emily Kang, Justin, Amy, or any
 `--hidden--` occupant carries forward to the current league — no further
@@ -150,31 +165,29 @@ folded into that table.
 - Receiving yards, season, all time: **Jefferson Airplane (Alex), 6563,
   2022**.
 
-**New, still-unattributed team names surfaced by this data** — none of these
-come with a finish-number, so none can be slotted into an owner's genealogy
-chain yet; listed here rather than guessed at:
-- **2022**: Ja'Marr-a-Lago Raiders, NoNightshadesforBrady,
-  KissYourCousinGoodbye, and a poop-emoji-named team (rendered inconsistently
-  as 💩💩 / 💩💩💩 across different rows — likely one hidden-manager team and
-  an emoji-count rendering artifact, not two teams).
-- **2023**: Gambling on Ridley, Can You Diggs It?
-- **2024**: Doug Martin, Genome Smith (almost certainly a "Geno Smith" pun,
-  stylized), King of the Hill, What's in the Naberhood?
+**Team names surfaced by this data that were unattributed as of Sept 26
+2026** — all now resolved via the Oct 13 2026 Ratings & Levels screenshots
+(2022-2024 full standings) and folded into the genealogy chains above:
+Ja'Marr-a-Lago Raiders (Hai, '22), NoNightshadesforBrady (Steph, '22),
+KissYourCousinGoodbye (Zach, '22), 💩💩💩 the poop-emoji team (Kyle, '22),
+Gambling on Ridley (Hai, '23), Can You Diggs It? (Zach, '23), Doug Martin
+(Kyle, '24), Genome Smith (Sara, '24 — a "Geno Smith" pun), King of the Hill
+(Zach, '24), What's in the Naberhood? (Hai, '24). One name from this list is
+still hidden rather than owner-unattributed: **Cleveland Steamers**, 7th
+place 2022 (571 pts, Bronze) — same name as the hidden 2020 runner-up entry
+already in the master table. Possibly the same person reusing the name
+across years, but that's not asserted as fact; the owner behind
+`--hidden--` is still unknown.
 
 ## Still open
 
-- **The new unattributed 2022-2024 team names from the Record Book section**
-  (Ja'Marr-a-Lago Raiders, NoNightshadesforBrady, KissYourCousinGoodbye, the
-  poop-emoji team, Gambling on Ridley, Can You Diggs It?, Doug Martin, Genome
-  Smith, King of the Hill, What's in the Naberhood?) remain unmatched to a
-  current owner — they add more pieces to the unresolved 2021→2026 gap for
-  Kyle/Zach (and Joe's remaining 2023/2025 gaps) that this data alone can't
-  close.
 - **2020's 3rd place** wasn't captured from the bracket screenshot.
 - **2021 has no bracket**, only a ratings snapshot — Joe's #1 rating that
   year is not a confirmed championship.
 - **Exact year of the Justin/Amy/hidden-manager → Sara swap** isn't pinned
-  down, nor is who any of the `--hidden--` occupants actually were.
+  down beyond "between 2021 and 2023," nor is who any of the `--hidden--`
+  occupants actually were (including the recurring hidden "Cleveland
+  Steamers," 2020 and 2022).
 - **2013 and earlier**: `league-notes.md` says the league's Yahoo
   predecessor was "Jim Wells in the Fist Round" (renamed to "All's Wells
   that ends Wells" in 2020 per a commissioner-transfer email) — but 2014
