@@ -121,11 +121,55 @@ hard fact in `league-notes.md`, kept the disagreement visible rather than
 picking a side — the email's "back-to-back" may have meant something else
 (playoff appearances, a different bracket), or was just talk.
 
+## Yahoo "Record Book" — all-time stat leaderboards
+
+Source: Yahoo's in-app **Record Book** screen (Head-to-Head / Team Points /
+Team Statistics tabs) — 21 screenshots Alex pasted Oct 13 2026. This is a
+different Yahoo view than the All-Time/Playoffs/Ratings tabs behind the
+champions-by-year master table above: it's cross-season stat-leaderboard
+trivia (wins/losses streaks, margins, points, yardage, kicking/defense), not
+a per-year standings source, so it's kept as its own section rather than
+folded into that table.
+
+**Records that corroborate data already in this file:**
+- Most wins in a season, all time: **Dak-O'-Lambterns, 14 wins, 2022** — the
+  best single-season record on the books, consistent with Dak-O'-Lambterns
+  being the (still-unattributed) 2022 champion per the master table above.
+- Team points, season, all time: **All In On Allen (Alex), 2752, 2023** —
+  Alex's highest-scoring season on record; he finished 3rd that year.
+- Current winning/losing streaks (as of these screenshots, matching
+  `rosters.md`'s Oct 6 2026 standings): **Allen-ine Fannin Mutants (Alex)**
+  W-4, **Lamar's Flowers King-Sz Power (OJ)** L-4.
+- Most losses in a season / longest losing streak, all time: **Dicker's my
+  Kicker (Zach), 15 losses / 9-game streak, 2025** — consistent with
+  `league-notes.md`'s "Zach finished last back-to-back" Toilet Bowl note.
+- Kicking points, season, all time: **Purdy Flowers for the King (Alex),
+  191, 2025** — Alex's championship season.
+- Receiving yards, season, all time: **Jefferson Airplane (Alex), 6563,
+  2022**.
+
+**New, still-unattributed team names surfaced by this data** — none of these
+come with a finish-number, so none can be slotted into an owner's genealogy
+chain yet; listed here rather than guessed at:
+- **2022**: Ja'Marr-a-Lago Raiders, NoNightshadesforBrady,
+  KissYourCousinGoodbye, and a poop-emoji-named team (rendered inconsistently
+  as 💩💩 / 💩💩💩 across different rows — likely one hidden-manager team and
+  an emoji-count rendering artifact, not two teams).
+- **2023**: Gambling on Ridley, Can You Diggs It?
+- **2024**: Doug Martin, Genome Smith (almost certainly a "Geno Smith" pun,
+  stylized), King of the Hill, What's in the Naberhood?
+
 ## Still open
 
 - **2022's "Dak-O'-Lambterns" and 2024's "The 529CeeDee"** still unattributed
   — by elimination one of Kyle/Joe/Zach, but the 2021→2026 gap for all three
   of them is unfilled, so no finish-number lock is possible yet.
+- **The new unattributed 2022-2024 team names above** (Ja'Marr-a-Lago
+  Raiders, NoNightshadesforBrady, KissYourCousinGoodbye, the poop-emoji team,
+  Gambling on Ridley, Can You Diggs It?, Doug Martin, Genome Smith, King of
+  the Hill, What's in the Naberhood?) add more pieces to the same unresolved
+  2021→2026 gap — none could be matched to a current owner from this data
+  alone.
 - **2020's 3rd place** wasn't captured from the bracket screenshot.
 - **2021 has no bracket**, only a ratings snapshot — Joe's #1 rating that
   year is not a confirmed championship.
