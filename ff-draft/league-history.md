@@ -15,7 +15,7 @@ the original per-year prose is ever wanted back.
 | 2023 | J. Taylor D. Swift (Joe) | Gibbsmas Miracle 👨‍👨 (Kyle) | All In On Allen (Alex) | **3rd** |
 | 2022 | Dak-O'-Lambterns (Joe) | Jefferson Airplane (Alex) | Old Guys United (OJ) | **2nd** |
 | 2021 | *no bracket pasted — ratings only, see below* | | | — |
-| 2020 | MrRogersNeighborhood (Zach) | Cleveland Steamers (hidden) | *not captured* | **4th** |
+| 2020 | MrRogersNeighborhood (Zach) | Cleveland Steamers (hidden) | I crush your bone (Justin) | **4th** |
 | 2019 | Gage Display (Hai) | Boone or Bust (Kyle) | IMissGronk (Steph) | **9th** |
 | 2018 | Seagull meat (Joe) | STEPH 'AMRAP' Tank (Steph) | Hogan'sHeroes (Zach) | **7th** |
 | 2017 | We Talkin' Fantasy? (Kyle) | Seagull meat (Joe) | The Gurley Men (Alex) | **3rd** |
@@ -36,6 +36,40 @@ longest-tenured grinder, not the winningest.
 "Alex's finish" is Yahoo's own per-year finish column for his team — the
 main tool for solving whose team is whose in years the podium names aren't
 obviously current-8 owners.
+
+### 2020 season detail (full 10-manager standings + bracket)
+
+Source: Ratings & Levels screenshot + playoff bracket, pasted by Alex Oct
+13 2026. **2020 had 10 teams, not 8.** Full regular-season ratings:
+
+1. Zach — MrRogersNeighborhood (788, Gold)
+2. **Justin** — I crush your bone (688, Silver)
+3. Hai — Need more DKalf (678, Silver)
+4. Kyle — Par for the year (675, Silver)
+5. OJ — Old guys reunited (666, Silver)
+6. **Amy** — More Than A Thielen (597, Bronze)
+7. `--hidden--` — Cleveland Steamers (595, Bronze)
+8. Joe — Seagull meat (589, Bronze)
+9. Stephanie — IMissGronk (588, Bronze)
+10. Alex — Slayton Manning (582, Bronze)
+
+Bracket: Zach and Cleveland Steamers got byes into the semis; Justin beat
+Kyle's Par for the year in the quarterfinal; Alex beat Amy's More Than A
+Thielen in the quarterfinal; Zach beat Alex in one semifinal, Cleveland
+Steamers beat Justin in the other; final was Zach over Cleveland Steamers
+(champion, per master table); 3rd-place game was **Justin (I crush your
+bone) over Alex (Slayton Manning), 201.92-127.92** — now reflected as 2020
+3rd place in the master table above, resolving the previous "not captured"
+gap. Alex's 4th-place finish matches the master table.
+
+**Justin and Amy are both confirmed, separately-named 2020 owners** — "I
+crush your bone" and "More Than A Thielen" respectively — distinct from the
+`--hidden--` Cleveland Steamers slot in the same screenshot. Neither Justin
+nor Amy is the hidden Cleveland Steamers manager; that slot is a third,
+still-unidentified person (see the Jamie note below, which is about that
+third slot only). This also confirms Justin and Amy were both still active
+owners as of 2020, narrowing — without resolving — the "still open" question
+of exactly when their slots (plus the hidden slot) turned into Sara's.
 
 ## Founding-five genealogy (in the league since at least 2014)
 
@@ -186,20 +220,30 @@ other pattern-match guesses in this file before they were verified or
 corrected. Jamie is not among the current 8 owners (Joe, Hai, Kyle, OJ,
 Sara, Zach, Steph, Alex), which is consistent with — but doesn't prove —
 Yahoo hiding a manager no longer active in the league; plausibly a
-former/past owner, same bucket as Sam, SuperFly Marinec, Arun, Vince, Emily
-Kang, Justin, or Amy above. Needs firmer confirmation before being folded
-into the master table or the departed-members list as fact.
+former/past owner, same general bucket as Sam, SuperFly Marinec, Arun,
+Vince, or Emily Kang above. **Scoped strictly to the hidden slot**: the
+2020 Ratings & Levels screenshot (see 2020 season detail above) confirms
+Justin and Amy each had their own separately-named 2020 teams ("I crush
+your bone" and "More Than A Thielen") distinct from the hidden Cleveland
+Steamers entry, so neither Justin nor Amy is a candidate for this guess —
+"Jamie" refers only to the still-unidentified third, hidden person. Needs
+firmer confirmation before being folded into the master table or the
+departed-members list as fact.
 
 ## Still open
 
-- **2020's 3rd place** wasn't captured from the bracket screenshot.
 - **2021 has no bracket**, only a ratings snapshot — Joe's #1 rating that
   year is not a confirmed championship.
 - **Exact year of the Justin/Amy/hidden-manager → Sara swap** isn't pinned
   down beyond "between 2021 and 2023," nor is who most of the `--hidden--`
-  occupants actually were. The recurring hidden "Cleveland Steamers" (2020,
-  2022) is now tentatively **Jamie**, per Alex's hedged recollection — see
-  the unconfirmed note above — but still needs firmer confirmation.
+  occupants actually were. The 2020 full standings now confirm Justin and
+  Amy were both still active that year with their own named teams, which
+  narrows (but doesn't resolve) the swap window — still need data from
+  2021-2022 to pin down the exact year each left. The recurring hidden
+  "Cleveland Steamers" (2020, 2022) is now tentatively **Jamie**, per
+  Alex's hedged recollection — see the unconfirmed note above — but still
+  needs firmer confirmation, and is understood to be a third person
+  distinct from Justin and Amy.
 - **2013 and earlier**: `league-notes.md` says the league's Yahoo
   predecessor was "Jim Wells in the Fist Round" (renamed to "All's Wells
   that ends Wells" in 2020 per a commissioner-transfer email) — but 2014
