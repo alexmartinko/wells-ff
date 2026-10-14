@@ -11,9 +11,9 @@ the original per-year prose is ever wanted back.
 | Year | 1st | 2nd | 3rd | Alex's finish |
 |--:|---|---|---|--:|
 | 2025 | Purdy Flowers for the King 🏆 (Alex) | The Cool Joe's Team (Sara) | Tylenol Skattebrain (Hai) | **1st** |
-| 2024 | Old Guys United (OJ) | The 529CeeDee (?) | All In On Allen (Alex) | **3rd** |
+| 2024 | Old Guys United (OJ) | The 529CeeDee (Joe) | All In On Allen (Alex) | **3rd** |
 | 2023 | J. Taylor D. Swift (Steph, *pattern match*) | Gibbsmas Miracle 👨‍👨 (Sara, *pattern match*) | All In On Allen (Alex) | **3rd** |
-| 2022 | Dak-O'-Lambterns (?) | Jefferson Airplane (Alex) | Old Guys United (OJ) | **2nd** |
+| 2022 | Dak-O'-Lambterns (Joe) | Jefferson Airplane (Alex) | Old Guys United (OJ) | **2nd** |
 | 2021 | *no bracket pasted — ratings only, see below* | | | — |
 | 2020 | MrRogersNeighborhood (Zach) | Cleveland Steamers (hidden) | *not captured* | **4th** |
 | 2019 | Gage Display (Hai) | Boone or Bust (Kyle) | IMissGronk (Steph) | **9th** |
@@ -26,11 +26,11 @@ the original per-year prose is ever wanted back.
 
 **2013 is the founding year Alex confirms joining** — nothing earlier exists.
 
-**Championship tally (2014-2025):** OJ 3 (2015, 2016, 2024) · Hai 2 (2014,
-2019) · Alex, Zach, Kyle, Joe 1 each (2025, 2020, 2017, 2018) · Steph 1
-(2023, unconfirmed attribution). **Alex has been in the league every single
-year on record (2014-2026) and has exactly one championship (2025)** — the
-longest-tenured grinder, not the winningest.
+**Championship tally (2014-2025):** OJ 3 (2015, 2016, 2024) · Joe 2 (2018,
+2022) · Hai 2 (2014, 2019) · Alex, Zach, Kyle 1 each (2025, 2020, 2017) ·
+Steph 1 (2023, unconfirmed attribution). **Alex has been in the league
+every single year on record (2014-2026) and has exactly one championship
+(2025)** — the longest-tenured grinder, not the winningest.
 
 "Alex's finish" is Yahoo's own per-year finish column for his team — the
 main tool for solving whose team is whose in years the podium names aren't
@@ -77,8 +77,10 @@ obviously current-8 owners.
   for the year ('20) → Need Moore Everclear ('21) → ... →
   **Leeeeroy Judkins** ('26).
 - **Joe**: first appears **2017**. Seagull meat ('17 runner-up, '18
-  champion, '19, '20, '21 — 5 straight years, one name) → ... →
-  **Tet-On/Tet-Off** ('26).
+  champion, '19, '20, '21 — 5 straight years, one name) → Dak-O'-Lambterns
+  ('22, champion — Alex-confirmed Oct 2026) → ... (2023 gap still open) →
+  The 529CeeDee ('24, runner-up — Alex-confirmed Oct 2026) → ... (2025 gap
+  still open) → **Tet-On/Tet-Off** ('26).
 - **Sara**: no data before 2025 (The Cool Joe's Team). Joined sometime
   between 2021 (10-team era, no Sara) and 2025. Likely Gibbsmas Miracle
   👨‍👨 in '23 (pattern match on her recurring Jahmyr Gibbs joke, same bit
@@ -132,9 +134,9 @@ a per-year standings source, so it's kept as its own section rather than
 folded into that table.
 
 **Records that corroborate data already in this file:**
-- Most wins in a season, all time: **Dak-O'-Lambterns, 14 wins, 2022** — the
-  best single-season record on the books, consistent with Dak-O'-Lambterns
-  being the (still-unattributed) 2022 champion per the master table above.
+- Most wins in a season, all time: **Dak-O'-Lambterns (Joe), 14 wins, 2022**
+  — the best single-season record on the books, matching Dak-O'-Lambterns'
+  2022 championship per the master table above.
 - Team points, season, all time: **All In On Allen (Alex), 2752, 2023** —
   Alex's highest-scoring season on record; he finished 3rd that year.
 - Current winning/losing streaks (as of these screenshots, matching
@@ -161,15 +163,13 @@ chain yet; listed here rather than guessed at:
 
 ## Still open
 
-- **2022's "Dak-O'-Lambterns" and 2024's "The 529CeeDee"** still unattributed
-  — by elimination one of Kyle/Joe/Zach, but the 2021→2026 gap for all three
-  of them is unfilled, so no finish-number lock is possible yet.
-- **The new unattributed 2022-2024 team names above** (Ja'Marr-a-Lago
-  Raiders, NoNightshadesforBrady, KissYourCousinGoodbye, the poop-emoji team,
-  Gambling on Ridley, Can You Diggs It?, Doug Martin, Genome Smith, King of
-  the Hill, What's in the Naberhood?) add more pieces to the same unresolved
-  2021→2026 gap — none could be matched to a current owner from this data
-  alone.
+- **The new unattributed 2022-2024 team names from the Record Book section**
+  (Ja'Marr-a-Lago Raiders, NoNightshadesforBrady, KissYourCousinGoodbye, the
+  poop-emoji team, Gambling on Ridley, Can You Diggs It?, Doug Martin, Genome
+  Smith, King of the Hill, What's in the Naberhood?) remain unmatched to a
+  current owner — they add more pieces to the unresolved 2021→2026 gap for
+  Kyle/Zach (and Joe's remaining 2023/2025 gaps) that this data alone can't
+  close.
 - **2020's 3rd place** wasn't captured from the bracket screenshot.
 - **2021 has no bracket**, only a ratings snapshot — Joe's #1 rating that
   year is not a confirmed championship.
