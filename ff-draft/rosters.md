@@ -95,33 +95,79 @@ still the one team incapable of a big bid. Steph and Zach are both sitting
 on effectively full budgets ($100) despite being mid-table in moves —
 genuinely passive bidders, not just a guess anymore.
 
+## Standings as of Oct 14 (5 games played) — real data, live app screenshots
+
+Alex dropped his first game (now 4-1-0, L-1) and fell to 2nd on a tiebreak
+behind Hai, who's still unbeaten-in-the-standings-sense at 4-1-0 but ahead
+on points for. Budgets barely moved for most teams in the last week —
+**Steph and Zach are still sitting on completely untouched $100 budgets**
+after 5 games; this is no longer an early-season fluke, it's a season-long
+pattern. Kyle is still capped at $24 (unchanged from Oct 6). Hai ($93),
+Sara ($99), and OJ ($99) also didn't move. Joe ticked down $1 ($70 → $69).
+**Alex's only spend was the $8 Dohnte Meyers claim** ($84 → $76) — see
+`waiver-reports/2026-wk6.md`.
+
+| Rank | Team | Owner | W-L-T | Streak | PF | PA | FAAB left | Waiver pri. |
+|--:|---|---|---|---|--:|--:|--:|--:|
+| 1 | No Contest🤙 | Hai | 4-1-0 | W-1 | 864.78 | 714.16 | $93 | 8 |
+| 2 | Allen-ine Fannin Mutants | **Alex** | 4-1-0 | L-1 | 835.72 | 743.74 | $76 | 7 |
+| 3 | Swiftielce Babies | Steph | 4-1-0 | W-4 | 772.14 | 658.84 | $100 | 6 |
+| 4 | I'm Worthy of Victory | Zach | 3-2-0 | W-3 | 721.56 | 737.92 | $100 | 5 |
+| 5 | Tet-On/Tet-Off | Joe | 2-3-0 | L-1 | 666.90 | 723.72 | $69 | 4 |
+| 6 | GibbsEnergy&BrownianMotion | Sara | 1-4-0 | L-4 | 859.56 | 906.70 | $99 | 3 |
+| 7 | Lamar's Flowers King-Sz Power | OJ | 1-4-0 | W-1 | 727.40 | 762.66 | $99 | 2 |
+| 8 | Leeeeroy Judkins | Kyle | 1-4-0 | L-4 | 613.48 | 813.80 | $24 | 1 |
+
+**Three likely-stale roster entries found cross-checking the live Week 6
+free-agent list against this file** (flagging per house process, not yet
+confirmed by a fresh paste from these owners):
+- **Wan'Dale Robinson (WR, TEN)** — listed on Kyle's bench below, but shows
+  as an available free agent in the league's Oct 14 Players tab. Kyle
+  likely dropped him since the Oct 6 snapshot.
+- **Chris Godwin Jr. (WR, TB)** — listed as a starting FLEX on Zach's
+  roster below, but also shows available on the Oct 14 free-agent list.
+  Zach likely dropped him since Oct 6.
+- **Courtland Sutton (WR, DEN)** — listed on Sara's bench below, but also
+  shows available on the Oct 14 free-agent list. Consistent with
+  `waiver-reports/2026-wk5.md` already flagging Sutton as unproductive —
+  Sara likely cut him since.
+
+Not rewriting Kyle/Zach/Sara's roster sections below without a fresh paste
+from them — leaving the entries in place but treat those three specific
+lines as unconfirmed/stale until corrected.
+
 ## Allen-ine Fannin Mutants — Alex (me)
 
-**Updated Oct 6, Week 5 lineup (from live screenshots).** 4-0-0, 1st place,
-$84 FAAB left. Jonah Coleman is gone (confirmed dropped, bust — landed on
-IR without playing; see `waiver-reports/2026-wk4.md`).
+**Updated Oct 14, Week 6 lineup (from live screenshots).** 4-1-0, 2nd place
+(tiebreak behind Hai), $76 FAAB left. Since the Oct 6 snapshot: **Rico
+Dowdle was dropped** (confirmed gone) and **Dohnte Meyers was added**
+(~$8 FAAB, within the `2026-wk5.md` recommended $8-22 range) — but **Will
+Shipley, also recommended in `2026-wk5.md`, was never added**; Alex passed
+on that one. Keenan Allen has recovered from his Out tag and is back in
+the starting lineup. Breece Hall is now tagged **Q** (not Out) — trending
+back from the Week 3 quad injury, consistent with "week-to-week" reporting.
 
 - **QB** Josh Allen (BUF)
-- **RB** Kyren Williams (LAR), Rhamondre Stevenson (NE) — both now full
-  starters, not flex
-- **WR** Jaxon Smith-Njigba (SEA), Tee Higgins (CIN — **tagged Q,
-  adductor strain, day-to-day**)
+- **RB** Kyren Williams (LAR), Rhamondre Stevenson (NE)
+- **WR** Jaxon Smith-Njigba (SEA — **tagged Q, ankle**, expected to play
+  Thu @ DEN), Keenan Allen (IND — healthy, back starting)
 - **TE** Dalton Kincaid (BUF)
-- **FLEX x2** Harold Fannin Jr. (TE, CLE), Carnell Tate (WR, TEN) — Tate
-  earned a starting flex spot, no longer a cut candidate
-- **Bench** Chuba Hubbard (RB, CAR — **bye this week**), Breece Hall (RB,
-  NYJ — **tagged Out**, still the quad/thigh injury from Wk3, no return
-  timeline), Marvin Harrison Jr. (WR, ARI), Rico Dowdle (RB, PIT — **tagged
-  Out**), Keenan Allen (WR, IND — **tagged Out**, new injury)
+- **FLEX x2** Harold Fannin Jr. (TE, CLE), Carnell Tate (WR, TEN)
+- **Bench** Tee Higgins (WR, CIN — **bye this week**, adductor strain has
+  resolved), Chuba Hubbard (RB, CAR — active this week), Breece Hall (RB,
+  NYJ — **tagged Q**, quad, week-to-week), Marvin Harrison Jr. (WR, **HOU —
+  traded from ARI Oct 11, 2026**; now Houston's presumptive No. 2 WR behind
+  Nico Collins, reunited with college QB C.J. Stroud — real fantasy
+  stock-up, no action needed), Dohnte Meyers (WR, CIN — **bye this week**,
+  same bye as Higgins)
 - **IR** A.J. Brown (WR, NE) — still stashed, unchanged
 - **K** Brandon Aubrey (DAL) &middot; **DEF** Seahawks
 
-**RB is a real crisis right now**, not just a soft spot: of 4 rostered RBs,
-only Kyren and Rhamondre are healthy and playing. Hall (Out, no timeline),
-Dowdle (Out), and Hubbard (bye) are all dead this week. See
-`waiver-reports/` for the Oct 6 fix (Will Shipley, Dohnte Meyers, Braelon
-Allen). **3 bench spots are currently non-contributing** (Hall/Dowdle/
-Allen all tagged Out) — real churn needed, not just a watch item.
+**RB crisis has eased but isn't fully resolved**: Hubbard is active, Hall
+is trending back (Q, not Out), so the position is thin rather than in
+crisis. See `waiver-reports/2026-wk6.md` for this week's pickup (Woody
+Marks, HOU) targeting the position again given Houston's David Montgomery
+(groin) is week-to-week and Marks has an expanding role.
 
 ## GoldenShowersBringMayeFlowers — Hai (1st place, 210.86 pts)
 
