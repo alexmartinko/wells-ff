@@ -136,38 +136,84 @@ Not rewriting Kyle/Zach/Sara's roster sections below without a fresh paste
 from them — leaving the entries in place but treat those three specific
 lines as unconfirmed/stale until corrected.
 
+**Further corroboration, Oct 27 (Week 8) free-agent board:** Chris Godwin
+Jr. and Courtland Sutton both still show as free agents, consistent with
+the Oct 14 flag that Zach and Sara cut them. Two more names now also
+showing FA that weren't flagged before — **Makai Lemon (WR, PHI)**, listed
+on Kyle's bench below, and **Quentin Johnston (WR, LAC)**, listed on
+Zach's bench below. Same caveat as before: not rewriting those rosters
+without a fresh paste, but treat those two lines as likely-stale too.
+
+## Standings as of Oct 27 (Week 8, pre-kickoff) — real data, live app screenshots
+
+Week 8 matchups show "Not started yet" as of this snapshot; standings/FAAB
+reflect the just-completed Week 7 slate (Alex now 6-1-0).
+
+| Rank | Team | Owner | W-L-T | PF | PA | Streak | FAAB left | Waiver pri. | Moves |
+|--:|---|---|---|--:|--:|---|--:|--:|--:|
+| 1 | No Contest🤙 | Hai | 6-1-0 | 1183.88 | 994.88 | W-3 | $89 | 8 | 11 |
+| 2 | Allen-ine Fannin Mutants | **Alex** | 6-1-0 | 1138.04 | 987.42 | W-2 | $67 | 7 | 5 |
+| 3 | I'm Worthy of Victory | Zach | 4-3-0 | 1025.20 | 1052.08 | W-1 | $100 | 6 | 9 |
+| 4 | Swiftielce Babies | Steph | 4-3-0 | 1014.42 | 970.48 | L-2 | $100 | 5 | 4 |
+| 5 | Tet-On/Tet-Off | Joe | 3-4-0 | 937.54 | 996.72 | L-1 | $69 | 4 | 10 |
+| 6 | Lamar's Flowers King-Sz Power | OJ | 2-5-0 | 997.88 | 1000.00 | W-1 | $97 | 3 | 15 |
+| 7 | Leeeeroy Judkins | Kyle | 2-5-0 | 911.24 | 1110.00 | L-1 | **$15** | 2 | **23** |
+| 8 | GibbsEnergy&BrownianMotion | Sara | 1-6-0 | 1118.92 | 1215.54 | L-6 | $84 | 1 | 6 |
+
+**Alex (me) is 6-1-0, 2nd place behind Hai on points**, best-or-near-best
+record in the league. FAAB spend since Oct 14: $76 → $67 (~$9, the
+Wan'Dale Robinson pickup below).
+
+**Kyle has flipped from "capped" to fully tapped out** — $24 → $15, and
+his move count exploded to 23 (was 10 on Sept 26), confirming he's still
+this league's most dollar-aggressive bidder historically, just nearly out
+of ammo now; any bid north of $15 auto-beats him on budget alone. **Zach
+and Steph remain untouched at $100 FAAB** despite being active movers (9
+and 4 moves respectively) — now a season-long pattern of frequent but
+zero-dollar claims, not early-season noise. Hai ($89), Sara ($84), Joe
+($69), and OJ ($97) all continue the "frequent but cheap" pattern from
+prior weeks.
+
 ## Allen-ine Fannin Mutants — Alex (me)
 
-**Updated Oct 14, Week 6 lineup (from live screenshots).** 4-1-0, 2nd place
-(tiebreak behind Hai), $76 FAAB left. Since the Oct 6 snapshot: **Rico
-Dowdle was dropped** (confirmed gone) and **Dohnte Meyers was added**
-(~$8 FAAB, within the `2026-wk5.md` recommended $8-22 range) — but **Will
-Shipley, also recommended in `2026-wk5.md`, was never added**; Alex passed
-on that one. Keenan Allen has recovered from his Out tag and is back in
-the starting lineup. Breece Hall is now tagged **Q** (not Out) — trending
-back from the Week 3 quad injury, consistent with "week-to-week" reporting.
+**Updated Oct 27, Week 8 lineup (from live screenshots; "Final"/in-progress
+stats shown reflect the just-completed Week 7 slate).** 6-1-0, 2nd place,
+$67 FAAB left. Since the Oct 14 snapshot:
 
-- **QB** Josh Allen (BUF)
+- **Added: Wan'Dale Robinson (WR, TEN)** — picked up off Kyle's cut
+  (flagged stale in the Oct 14 update above, now confirmed via this add).
+  Weak WR depth piece, 19% start rate — see `waiver-reports/2026-wk8.md`
+  for why he's this week's top drop candidate.
+- **Added: C.J. Stroud (QB, HOU)** — a one-week streamer for Josh Allen's
+  Week 7 bye. Allen's bye has now passed; Stroud is redundant and is a
+  drop candidate per `waiver-reports/2026-wk8.md`.
+- **Dropped: Marvin Harrison Jr. (WR, HOU)** and **Dohnte Meyers (WR,
+  CIN)** — both gone from the roster since Oct 14 (no longer appear in any
+  screenshot).
+- **A.J. Brown is off IR** and back in the starting FLEX — the "real
+  fantasy stock-up" flagged Oct 14 has materialized.
+- **Breece Hall has worsened, not improved** — now tagged **O (Out)**,
+  moved to IR (was Q/"trending back" on Oct 14). Still held, not cut —
+  same "don't cut a talented player over an injury" rule from
+  `waiver-reports/2026-wk6.md`.
+
+- **QB** Josh Allen (BUF) — back from bye, reclaims starting job for Week 8
+  (last week's lineup had C.J. Stroud starting in his place)
 - **RB** Kyren Williams (LAR), Rhamondre Stevenson (NE)
-- **WR** Jaxon Smith-Njigba (SEA — **tagged Q, ankle**, expected to play
-  Thu @ DEN), Keenan Allen (IND — healthy, back starting)
-- **TE** Dalton Kincaid (BUF)
-- **FLEX x2** Harold Fannin Jr. (TE, CLE), Carnell Tate (WR, TEN)
-- **Bench** Tee Higgins (WR, CIN — **bye this week**, adductor strain has
-  resolved), Chuba Hubbard (RB, CAR — active this week), Breece Hall (RB,
-  NYJ — **tagged Q**, quad, week-to-week), Marvin Harrison Jr. (WR, **HOU —
-  traded from ARI Oct 11, 2026**; now Houston's presumptive No. 2 WR behind
-  Nico Collins, reunited with college QB C.J. Stroud — real fantasy
-  stock-up, no action needed), Dohnte Meyers (WR, CIN — **bye this week**,
-  same bye as Higgins)
-- **IR** A.J. Brown (WR, NE) — still stashed, unchanged
+- **WR** Jaxon Smith-Njigba (SEA — tagged Q, ankle), Carnell Tate (TEN)
+- **TE** Harold Fannin Jr. (CLE)
+- **FLEX x2** Chuba Hubbard (RB, CAR), A.J. Brown (WR, NE — off IR)
+- **Bench** C.J. Stroud (QB, HOU — redundant now, drop candidate), Keenan
+  Allen (WR, IND), Dalton Kincaid (TE, BUF), Tee Higgins (WR, CIN),
+  Wan'Dale Robinson (WR, TEN — weak, drop candidate)
+- **IR** Breece Hall (RB, NYJ) — tagged **O**, quad, worsened from Q
 - **K** Brandon Aubrey (DAL) &middot; **DEF** Seahawks
 
-**RB crisis has eased but isn't fully resolved**: Hubbard is active, Hall
-is trending back (Q, not Out), so the position is thin rather than in
-crisis. See `waiver-reports/2026-wk6.md` for this week's pickup (Woody
-Marks, HOU) targeting the position again given Houston's David Montgomery
-(groin) is week-to-week and Marks has an expanding role.
+**RB depth is thin again**: with Hall on IR, Alex has zero bench RB behind
+Kyren/Rhamondre/Hubbard. See `waiver-reports/2026-wk8.md` for this week's
+pickups (Jordan Mason, MIN and Rachaad White, WAS) targeting the position,
+and the Cam Skattebo (NYG) research — verdict: pass, not an injury, a
+fumble-driven benching with Tracy now entrenched, plus NYG is on bye.
 
 ## GoldenShowersBringMayeFlowers — Hai (1st place, 210.86 pts)
 
